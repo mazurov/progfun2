@@ -1,0 +1,4 @@
+target
+*.log
+.ensime*
+.idea
